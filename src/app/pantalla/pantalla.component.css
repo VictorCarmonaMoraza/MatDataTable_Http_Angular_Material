@@ -1,0 +1,19 @@
+.alto{
+  height: 500px;
+  background-color: peru;
+}
+
+.scrollColumn
+{
+  overflow-y: scroll;
+  height: 600px;
+}
+
+
+table {
+  width: 100%;
+}
+
+td, th {
+  width: 30%;
+}
